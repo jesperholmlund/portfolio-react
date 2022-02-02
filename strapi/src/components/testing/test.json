@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_testing_tests",
+  "info": {
+    "displayName": "test",
+    "icon": "arrow-alt-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
