@@ -1,0 +1,24 @@
+footer {
+  background: #d77a61;
+  padding: 80px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  color: #fff;
+  a:visited {
+    color: #fff;
+  }
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  * {
+    background: none !important;
+    border: none !important;
+    font-size: 35px;
+  }
+  .card {
+    display: block;
+  }
+}

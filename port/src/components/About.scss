@@ -1,0 +1,29 @@
+#about {
+  height: fit-content;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  #profile-picture {
+    width: 300px;
+    background-image: url("https://nalgsa.com.au/wp-content/uploads/2017/10/placeholder-profile-sq.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  #profile-about {
+    width: 600px;
+    #profile-text {
+      padding-left: 50px;
+      font-size: 20px;
+      letter-spacing: 2px;
+    }
+    #profile-skills {
+      padding-left: 50px;
+      font-size: 20px;
+      letter-spacing: 2px;
+      padding-top: 20px;
+      a {
+        font-size: 25px;
+      }
+    }
+  }
+}

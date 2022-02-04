@@ -1,0 +1,44 @@
+#about {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#about #profile-picture {
+  width: 300px;
+  background-image: url("https://nalgsa.com.au/wp-content/uploads/2017/10/placeholder-profile-sq.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#about #profile-about {
+  width: 600px;
+}
+
+#about #profile-about #profile-text {
+  padding-left: 50px;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+#about #profile-about #profile-skills {
+  padding-left: 50px;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding-top: 20px;
+}
+
+#about #profile-about #profile-skills a {
+  font-size: 25px;
+}
+/*# sourceMappingURL=About.css.map */

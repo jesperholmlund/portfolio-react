@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EAEP,MAAM,EAAE,WAAW;EACnB,OAAO,EAAE,IAAI;CAMd;;AATD,AAIE,QAJM,CAIN,IAAI,CAAC;EACH,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,GAAG,EAAE,IAAI;CACV",
+    "sources": [
+        "../../components/Contact.scss"
+    ],
+    "names": [],
+    "file": "Contact.css"
+}

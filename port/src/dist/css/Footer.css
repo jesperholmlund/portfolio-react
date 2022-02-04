@@ -1,0 +1,33 @@
+footer {
+  background: #d77a61;
+  padding: 80px;
+  height: 200px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 80px;
+  color: #fff;
+}
+
+footer a:visited {
+  color: #fff;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer * {
+  background: none !important;
+  border: none !important;
+  font-size: 35px;
+}
+
+footer .card {
+  display: block;
+}
+/*# sourceMappingURL=Footer.css.map */
